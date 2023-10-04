@@ -19,7 +19,7 @@ function Header({ scrollToSection }) {
           <img
             src={Logo2}
             alt="The website logo"
-            className="cursor-pointer w-[30%] mt-[4rem] p-[2px] bg-green-400 rounded-xl sm:w-[8rem] lg:w-[11rem] hover:bg-green-800 duration-300"
+            className="cursor-pointer w-[30%] mt-[4rem] p-[2px] bg-green-950 rounded-xl sm:w-[8rem] lg:w-[11rem] hover:bg-green-800 duration-300"
           />
         </span>
       </div>
