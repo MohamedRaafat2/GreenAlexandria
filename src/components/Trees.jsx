@@ -1,4 +1,4 @@
-import Plant from "../assets/images/Plant2.jpg";
+import Plant1 from "../assets/images/0002.jpg";
 
 function Trees() {
   return (
@@ -34,7 +34,7 @@ function Trees() {
         <div className="w-[95%] sm:w-[30rem] md:w-[35rem] lg:w-[40rem]">
           <img
             className="w-full shadow-lg"
-            src={Plant}
+            src={Plant1}
             alt="A picture of us planting a tree"
           />
         </div>

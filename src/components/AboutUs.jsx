@@ -1,4 +1,4 @@
-import GroupPicture from "../assets/images/CaptureGroup3.jpg";
+import LogoPicture from "../assets/images/0001.png";
 
 function AboutUs({ scrollToSection }) {
   return (
@@ -40,9 +40,9 @@ function AboutUs({ scrollToSection }) {
 
         <div className="w-[95%] sm:w-[30rem] md:w-[35rem] lg:w-[40rem]">
           <img
-            className="w-full shadow-lg"
-            src={GroupPicture}
-            alt="A group picture of some of our volunteering group members"
+            className="w-full"
+            src={LogoPicture}
+            alt="A picture of Green Alexandria Logo"
           />
         </div>
       </div>

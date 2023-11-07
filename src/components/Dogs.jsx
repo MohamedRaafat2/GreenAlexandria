@@ -1,4 +1,4 @@
-import Dog from "../assets/images/Dog2.jpg";
+import Dog1 from "../assets/images/0003.jpg";
 
 function Dogs() {
   return (
@@ -29,7 +29,7 @@ function Dogs() {
         <div className="w-[95%] sm:w-[30rem] md:w-[35rem] lg:w-[40rem]">
           <img
             className="w-full shadow-lg"
-            src={Dog}
+            src={Dog1}
             alt="A picture of us feeding street dogs"
           />
         </div>

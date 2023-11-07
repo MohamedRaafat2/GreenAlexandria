@@ -1,4 +1,4 @@
-import HeroWallpaper from "../assets/images/heroWallpaper.png";
+import HeroWallpaper2 from "../assets/images/0000.png";
 
 import { motion } from "framer-motion";
 
@@ -44,7 +44,7 @@ function Hero({ scrollToSection }) {
         >
           <img
             className="w-full"
-            src={HeroWallpaper}
+            src={HeroWallpaper2}
             alt="A picture showing the activities of our volunteering group"
           />
         </motion.div>
